@@ -13,7 +13,7 @@
 ## Other:
  If you wish to update/modify any resources yourself, God information can be found
  in SmiteRandomizer/Resources/info.txt. They don't need to be in alphabetical order, that is only for the sake of organization. However,
- the format of 'Name,Damage Type,Class' must be followed (no spaces before/after commas), or else the program will break whenever that
+ the format of 'Name,Class' must be followed (no spaces before/after commas), or else the program will break whenever that
  god is chosen. All images are located in SmiteRandomizer/Resources/images. When adding/changing images for gods, follow the format of
  'T_***GOD NAME***_Default_Icon.png'. This file must be 128x128px, and the god name in the image file must exactly match the god name in
  info.txt. 128x128px Default images at can be found from https://smite.fandom.com/wiki/Gods
