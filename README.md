@@ -1,6 +1,6 @@
 # SmiteRandomizer
   This program will allow users to randomly select characters to play as in the game of Smite. This program can also filter the 
-  selection based on class and damage type, as well as the ability to filter out unwanted characters.
+  selection based on class, and unwanted characters can be filtered out manually.
 
 ## Instructions: 
   Extract the zip file and place the SmiteRandomizer folder wherever you want it to be. All necessary files for keeping the program 
