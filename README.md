@@ -3,7 +3,7 @@
   selection based on class, and unwanted characters can be filtered out manually.
 
 ## Instructions: 
-  Extract the zip file and place the SmiteRandomizer folder wherever you want it to be. All necessary files for keeping the program 
+  Extract the zip file wherever you want the folder to be. All necessary files for keeping the program 
   up to date are within SmiteRandomizer/Resources. Run the program with SmiteRandomizer.exe.
   
 ## Updating:
