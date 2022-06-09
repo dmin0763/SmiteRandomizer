@@ -9,12 +9,4 @@
 ## Updating:
  The Resources folder can be downloaded separately from the rest of the program and will be updated whenever necessary. Just replace 
  the folder and make sure it stays within the SmiteRandomizer folder. Background color can be changed with SmiteRandomizer/Resources/bg.txt. 
- Default is #c9b597
- 
-## Other:
- If you wish to update/modify any resources yourself, God information can be found
- in SmiteRandomizer/Resources/info.txt. They don't need to be in alphabetical order, that is only for the sake of organization. However,
- the format of 'Name,Class' must be followed (no spaces before/after comma), or else the program will break whenever that
- god is chosen. All images are located in SmiteRandomizer/Resources/images. When adding/changing images for gods, follow the format of
- 'T_***GOD NAME***_Default_Icon.png'. This file must be 128x128px, and the god name in the image file must exactly match the god name in
- info.txt. 128x128px Default images at can be found from https://smite.fandom.com/wiki/Gods
+ Default value is #c9b597
