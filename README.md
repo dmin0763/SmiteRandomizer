@@ -1,6 +1,6 @@
 # SmiteRandomizer
-  This program will allow users to randomly select characters to play as in the game of Smite. This program can also filter the 
-  selection based on class, and unwanted characters can be filtered out manually.
+  This program will allow users to randomly select a character within the game of Smite. This program can also make a 
+  selection based on class, and unwanted characters can be filtered out manually. Coded in Python.
 
 ## Instructions: 
   Extract the zip file wherever you want the folder to be. All necessary files for keeping the program 
