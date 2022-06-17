@@ -8,5 +8,5 @@
   
 ## Updating:
  The Resources folder can be downloaded separately from the rest of the program and will be updated whenever necessary. Just replace 
- the folder and make sure it stays within the SmiteRandomizer folder. Background color can be changed with SmiteRandomizer/Resources/bg.txt. 
+ the folder and make sure it stays within the SmiteRandomizer folder. Background color can be changed using hex values within SmiteRandomizer/Resources/bg.txt. 
  Default value is #c9b597
